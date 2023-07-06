@@ -18,11 +18,6 @@ status-website:
   introTitle: "**Overtune**"
   introMessage: ""
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/adamtester/overtune-status
-  navbar:
     - title: Home
       href: https://overtune.io
     - title: Status
