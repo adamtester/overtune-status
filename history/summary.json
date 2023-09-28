@@ -4,7 +4,7 @@
     "url": "https://overtune.io",
     "icon": "https://icons.duckduckgo.com/ip3/overtune.io.ico",
     "slug": "overtune-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 297,
     "timeMonth": 316,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-28": 0
+    }
   },
   {
     "name": "Overtune API",
@@ -26,7 +28,7 @@
     "uptime": "93.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.99%",
+    "uptimeMonth": "51.98%",
     "uptimeYear": "93.69%",
     "time": 741,
     "timeDay": 0,
@@ -34,7 +36,7 @@
     "timeMonth": 713,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2023-09-28": 17,
+      "2023-09-28": 22,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
       "2023-09-25": 1440,
