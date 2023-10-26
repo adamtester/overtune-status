@@ -6,7 +6,7 @@ sites:
   - name: Overtune Web
     url: https://overtune.io
   - name: Overtune API
-    url: https://api.overtune.io
+    url: https://api.overtune.io/ping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
