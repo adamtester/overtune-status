@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 137,
+    "time": 224,
+    "timeDay": 77,
     "timeWeek": 121,
-    "timeMonth": 192,
+    "timeMonth": 189,
     "timeYear": 211,
     "dailyMinutesDown": {
       "2024-06-27": 24
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.overtune.io.ico",
     "slug": "overtune-api",
     "status": "up",
-    "uptime": "94.48%",
+    "uptime": "94.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 537,
-    "timeDay": 471,
-    "timeWeek": 462,
-    "timeMonth": 499,
-    "timeYear": 534,
+    "timeDay": 617,
+    "timeWeek": 485,
+    "timeMonth": 503,
+    "timeYear": 535,
     "dailyMinutesDown": {}
   }
 ]
