@@ -6,17 +6,16 @@
     "slug": "overtune-web",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 206,
-    "timeDay": 236,
-    "timeWeek": 210,
-    "timeMonth": 203,
+    "time": 205,
+    "timeDay": 204,
+    "timeWeek": 198,
+    "timeMonth": 202,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-07-07": 8,
       "2025-04-03": 37
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
-    "timeDay": 543,
-    "timeWeek": 527,
-    "timeMonth": 529,
+    "timeDay": 340,
+    "timeWeek": 484,
+    "timeMonth": 524,
     "timeYear": 533,
     "dailyMinutesDown": {}
   }
