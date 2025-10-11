@@ -4,7 +4,7 @@
     "url": "https://overtune.io",
     "icon": "https://icons.duckduckgo.com/ip3/overtune.io.ico",
     "slug": "overtune-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 207,
     "timeDay": 252,
-    "timeWeek": 193,
+    "timeWeek": 213,
     "timeMonth": 240,
     "timeYear": 209,
     "dailyMinutesDown": {
