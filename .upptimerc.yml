@@ -4,16 +4,16 @@ repo: overtune-status # The name of this repository
 
 sites:
   - name: Overtune Web
-    url: https://overtune.io
+    url: https://overtune.app
   - name: Overtune API
-    url: https://api.overtune.io/ping
+    url: https://api.overtune.app/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.overtune.io
   # baseUrl: /your-repo-name
-  logoUrl: https://overtune.io/images/favicon.png
+  logoUrl: https://overtune.app/images/logo-dark.svg
   name: Overtune
   introTitle: "**Overtune**"
   introMessage: ""
