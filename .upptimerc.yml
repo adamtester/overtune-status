@@ -7,6 +7,8 @@ sites:
     url: https://overtune.app
   - name: Overtune API
     url: https://api.overtune.app/health
+  - name: Overtune Test Notifications
+    url: https://api.overtune.notreal
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
