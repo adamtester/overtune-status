@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.overtune.io
   # baseUrl: /your-repo-name
-  logoUrl: https://overtune.app/images/logo-dark.svg
+  logoUrl: https://overtune.app/images/favicon.png
   name: Overtune
   introTitle: "**Overtune**"
   introMessage: ""
